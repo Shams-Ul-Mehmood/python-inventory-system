@@ -1,0 +1,1 @@
+self.picture2 = self.image2
